@@ -1,9 +1,9 @@
 # NiceForum
 
 Exploiting phpBB < 3.2.4
-Technique taken from the following article. Article also contains technical details regarding the exploitation.
-I am NOT the author of the following article, I have only created the POC file to exploit the vulnerability.
-https://blog.ripstech.com/2018/phpbb3-phar-deserialization-to-remote-code-execution/
+Technique taken from the following article. Article also contains technical details regarding the exploitation.  
+I am NOT the author of the following article, I have only created the POC file to exploit the vulnerability.  
+https://blog.ripstech.com/2018/phpbb3-phar-deserialization-to-remote-code-execution/  
 
 Step 1  - Create the payload  
   
