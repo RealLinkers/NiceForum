@@ -1,6 +1,4 @@
-# NiceForum
-
-## Exploiting phpBB < 3.2.4 with a super administrator account
+# Exploiting phpBB < 3.2.4 with a super administrator account
 Technique taken from the following article. Article also contains technical details regarding the exploitation.  
 I am NOT the author of the following article, I have only researched and provided the details to exploit this vulnerability.
 https://blog.ripstech.com/2018/phpbb3-phar-deserialization-to-remote-code-execution/  
